@@ -9,7 +9,7 @@ const Header = () => {
           <p>Chat query</p>
           <p>Sensitive cases</p>
           <p>pending cases</p>
-          <p>E-filing</p>
+          <p>E-filin</p>
         </div>
       </div>
     </div>
